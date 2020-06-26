@@ -1,0 +1,24 @@
+{
+  "name": "DHT",
+  "keywords": "DHT11, DHT22, DHT33, DHT44, AM2301, AM2302, AM2303, autodetect, offset",
+  "description": "Arduino library for DHT temperature and humidity sensor, with automatic sensortype recognition.",
+  "authors":
+  [
+    {
+      "name": "fvr_multi geeks",
+      "email": "",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": ""
+  },
+  "version":"0.1.0",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "export": {
+    "include": "dht"
+  }
+}
